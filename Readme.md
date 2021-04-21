@@ -1,12 +1,11 @@
 ## Conteúdo
 
-Todos os módulos cursados até agora, desde Sistemas de Informação até Análise e Desenvolvimento de Sistemas, incluindo:
-
   + Materiais didáticos fornecidos pelos professores
   + Exercícios
   + Resumos
   + Provas
   + Documentos institucionais
+  + Estudos Pessoais
 
 ##
 
@@ -15,21 +14,14 @@ _O que ja foi cursado até o presente momento_
 
 | Instituição | Curso   | Módulo     |
 | ----------- | ------- | ---------- |
-| PUC-Go      | **ADS** | 2          |
-| PUC-Go      | **ADS** | 3 - Mobile |
-| PUC-Go      | **ADS** | 3 - Web    |
-| Senac       | **ADS** | 2          |
 | Senac       | **SI**  | 1          |
+| Senac       | **ADS** | 2          |
+| PUC-Go      | **ADS** | 2          |
+| PUC-Go      | **ADS** | 3 - Web    |
+| PUC-Go      | **ADS** | 4 - Mobile |
 
-##
 
-### Mapa de Repositórios
-_Repositórios importantes_
 
-| Nome           | Link                                | Conteúdo                         |
-| -------------- | ----------------------------------- | -------------------------------- |
-| **Projetos**   | https://github.com/M4NS0/Projetos   | Repositório de projetos pessoais |
-| **Workspaces** | https://github.com/M4NS0/Workspaces | Repositório com todos os códigos |
 
 ##
 
@@ -37,25 +29,26 @@ _Repositórios importantes_
 
 _Para facilitar as buscas, a localização de todos os códigos estudados até o presente momento_ 
 
-| Assunto                             | Linguagem          | Link                 |
-| ----------------------------------- | ------------------ | -------------------- |
-| Desenvolvimento Mobile              | **Java**           | https://git.io/JOKV5 |
-| Desenvolvimento Web                 | **Multilinguagem** | https://git.io/JOKrR |
-| Desenvolvimento Web - John Hopkings | **HTML/CSS/JS/BS** | https://git.io/JOKrl |
-| Estrutura de Dados                  | **Java**           | https://git.io/JfbMP |
-| Fundamentos                         | **C ++**           | https://git.io/JfbMS |
-| Fundamentos                         | **Java**           | https://git.io/JfbMX |
-| Fundamentos                         | **JavaScript**     | https://git.io/JJfIb |
-| Fundamentos                         | **Julia**          | https://git.io/JfbMD |
-| Fundamentos                         | **Python**         | https://git.io/JfbM1 |
-| Fundamentos                         | **SQL**            | https://git.io/JfbM9 |
-| Fundamentos - Angular University    | **Angular**        | https://git.io/JOKw4 |
-| Logica de Programação               | **Java**           | https://git.io/JfbMQ |
-| Logica de Programação               | **Python**         | https://git.io/JfbM7 |
-| Master Class - Workshop             | **Angular**        | https://git.io/JOKwm |
-| Programação Orientada a Objetos     | **Java**           | https://git.io/JfbM5 |
-| The Complete Guide  - Udemy         | **Angular**        | https://git.io/JOKw1 |
-| Técnicas de Programação             | **Java**           | https://git.io/JfbMd |
+| Assunto                             | Linguagem          | Link                                |
+| ----------------------------------- | ------------------ | ----------------------------------- |
+| Repositório com todos os códigos    | **Todas abaixo**   | https://github.com/M4NS0/Workspaces |  
+| Desenvolvimento Mobile              | **Java**           | https://git.io/JOKV5                |
+| Desenvolvimento Web                 | **Multilinguagem** | https://git.io/JOKrR                |
+| Desenvolvimento Web - John Hopkings | **HTML/CSS/JS/BS** | https://git.io/JOKrl                |
+| Estrutura de Dados                  | **Java**           | https://git.io/JfbMP                |
+| Fundamentos                         | **C ++**           | https://git.io/JfbMS                |
+| Fundamentos                         | **Java**           | https://git.io/JfbMX                |
+| Fundamentos                         | **JavaScript**     | https://git.io/JJfIb                |
+| Fundamentos                         | **Julia**          | https://git.io/JfbMD                |
+| Fundamentos                         | **Python**         | https://git.io/JfbM1                |
+| Fundamentos                         | **SQL**            | https://git.io/JfbM9                |
+| Fundamentos - Angular University    | **Angular**        | https://git.io/JOKw4                |
+| Logica de Programação               | **Java**           | https://git.io/JfbMQ                |
+| Logica de Programação               | **Python**         | https://git.io/JfbM7                |
+| Master Class - Workshop             | **Angular**        | https://git.io/JOKwm                |
+| Programação Orientada a Objetos     | **Java**           | https://git.io/JfbM5                |
+| The Complete Guide - Udemy          | **Angular**        | https://git.io/JOKw1                |
+| Técnicas de Programação             | **Java**           | https://git.io/JfbMd                |
 
 
 
@@ -83,11 +76,13 @@ _Projetos, em diversas linguagens, nos quais me envolvi_
 | **GitHub Pusher**       | Faz commits e pushes no Github com interface gráfica simples                  | Shell                                                |
 | **Hora Fácil**          | Single Page Application de Horas com cronômetro                               | Angular/Typescript/Bootstrap/Css/Html                |
 | **Pokemon**             | Jogo Temático                                                                 | Java                                                 |
+| **Projetos**            | Repositório de projetos pessoais                                              | https://github.com/M4NS0/Projetos                    |
 | **Restaurant Site**     | Página David Chu's China Bistro ministrado pela Universidade de John Hoppings | HTML/Bootstrap/JS                                    |
 | **StudLog**             | Programa de Coleta de dados de uma máquina para fins Estatísticos             | Shell                                                |
 | **Tela de Login**       | Aplicação Web de tela de Login Simples                                        | JavaScript/Html/CSS/Bootstrap                        |
 | **URL Shortner**        | Encurtador de URL com interface gráfica simples                               | Python                                               |
 | **Validador de CPF**    | Aplicação Web com Servlets para validação de Cpf                              | Java/Html                                            |
+| ----------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------- |
 
 
 #
