@@ -13,12 +13,13 @@ Todos os módulos cursados até agora, desde Sistemas de Informação até Anál
 ### Mapa de Módulos
 _O que ja foi cursado até o presente momento_
 
-| Instituição | Curso   | Módulo | Link                 |
-| ----------- | ------- | ------ | -------------------- |
-| Senac       | **SI**  | 1      | https://git.io/Jfp5V |
-| Senac       | **ADS** | 2      | https://git.io/Jfp5o |
-| PUC-Go      | **ADS** | 2      | https://git.io/Jfp51 |
-| PUC-Go      | **ADS** | 3 - Web| https://git.io/Jfp5F |
+| Instituição | Curso   | Módulo     |
+| ----------- | ------- | ---------- |
+| PUC-Go      | **ADS** | 2          |
+| PUC-Go      | **ADS** | 3 - Mobile |
+| PUC-Go      | **ADS** | 3 - Web    |
+| Senac       | **ADS** | 2          |
+| Senac       | **SI**  | 1          |
 
 ##
 
@@ -36,76 +37,64 @@ _Repositórios importantes_
 
 _Para facilitar as buscas, a localização de todos os códigos estudados até o presente momento_ 
 
-| Matéria                         | Linguagem      | Link                 |
-| ------------------------------- | -------------- | -------------------- |
-| Estrutura de Dados              | **Java**       | https://git.io/JfbMP |
-| Fundamentos                     | **Python**     | https://git.io/JfbM1 |
-| Fundamentos                     | **SQL**        | https://git.io/JfbM9 |
-| Fundamentos                     | **Julia**      | https://git.io/JfbMD |
-| Fundamentos                     | **C ++**       | https://git.io/JfbMS |
-| Fundamentos                     | **Java**       | https://git.io/JfbMX |
-| Fundamentos                     | **JavaScript** | https://git.io/JJfIb |
-| Logica de Programação           | **Python**     | https://git.io/JfbM7 |
-| Logica de Programação           | **Java**       | https://git.io/JfbMQ |
-| Programação Orientada a Objetos | **Java**       | https://git.io/JfbM5 |
-| Técnicas de Programação         | **Java**       | https://git.io/JfbMd |
+| Assunto                             | Linguagem          | Link                 |
+| ----------------------------------- | ------------------ | -------------------- |
+| Desenvolvimento Mobile              | **Java**           | https://git.io/JOKV5 |
+| Desenvolvimento Web                 | **Multilinguagem** | https://git.io/JOKrR |
+| Desenvolvimento Web - John Hopkings | **HTML/CSS/JS/BS** | https://git.io/JOKrl |
+| Estrutura de Dados                  | **Java**           | https://git.io/JfbMP |
+| Fundamentos                         | **C ++**           | https://git.io/JfbMS |
+| Fundamentos                         | **Java**           | https://git.io/JfbMX |
+| Fundamentos                         | **JavaScript**     | https://git.io/JJfIb |
+| Fundamentos                         | **Julia**          | https://git.io/JfbMD |
+| Fundamentos                         | **Python**         | https://git.io/JfbM1 |
+| Fundamentos                         | **SQL**            | https://git.io/JfbM9 |
+| Fundamentos - Angular University    | **Angular**        | https://git.io/JOKw4 |
+| Logica de Programação               | **Java**           | https://git.io/JfbMQ |
+| Logica de Programação               | **Python**         | https://git.io/JfbM7 |
+| Master Class - Workshop             | **Angular**        | https://git.io/JOKwm |
+| Programação Orientada a Objetos     | **Java**           | https://git.io/JfbM5 |
+| The Complete Guide  - Udemy         | **Angular**        | https://git.io/JOKw1 |
+| Técnicas de Programação             | **Java**           | https://git.io/JfbMd |
+
+
 
 ##
 
-### Algorítmos Úteis
-
-_Sessão dedicada a algorítmos úteis e reutilizáveis_
-
-| Descrição                                        | Linguagem | Link                 |
-| ------------------------------------------------ | --------- | -------------------- |
-| Agenda Simples em Jframe/Swing                   | **Java**  | https://git.io/JfbMF |
-| Análise Textual usando Regex                     | **Java**  | https://git.io/JfbMb |
-| Comunicador Cliente/Servidor                     | **Java**  | https://git.io/JfbMN |
-| Comunicador Criptografado                        | **Java**  | https://git.io/JfbMA |
-| Comunicador Multi-thread                         | **Java**  | https://git.io/JfbMx |
-| Envio de Arquivos                                | **Java**  | https://git.io/JfbMp |
-| Leitura e Gravação de Arquivos                   | **Java**  | https://git.io/JfbDe |
-| Ligação com Banco de Dados                       | **Java**  | https://git.io/JfbDv |
-| Reconhecimento de Texto em Imagem (com Gravação) | **Java**  | https://git.io/JfbDJ |
-| Reconhecimento de Texto em imagem                | **Java**  | https://git.io/JfbDU |
-
-
-##
 
 ### Projetos 
 
 _Projetos, em diversas linguagens, nos quais me envolvi_
 
-| Nome               | Descrição                                                         | Link                  |
-| ------------------ | ----------------------------------------------------------------- |  -------------------- |
-| **Agenda Ligada**  | Agenda de contatos em JFrame/Swing em Lista Ligada                |  https://git.io/JfbDk |
-| **Analizador CSV** | Programa de Análise Estatística para Planilhas                    |  https://git.io/JfbDI |
-| **Calculadora**    | Calculadora simples em JFrame/Swing                               |  https://git.io/JfbDL |
-| **Chat-in**        | Comunicador Criptografado com Envio e Recebimento de Arquivos     |  https://git.io/JfbDt |
-| **EColeta**        | Protótipo de Aplicativo Web de Empresa de Coleta de Resíduos      |  https://git.io/JfbDq | 
-| **Geo Ip Lookup**  | Localizador geográfico por IP                                     |  https://git.io/JfbDm |
-| **Pokemon**        | Jogo Temático                                                     |  https://git.io/JfbDY |
-| **StudLog**        | Programa de Coleta de dados de uma máquina para fins Estatísticos |  https://git.io/JfbDO |
+[Link do Repositório de Projetos](https://github.com/M4NS0/projetos)
+
+| Nome                    | Descrição                                                                     | Linguagem                                            |
+| ----------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------- |
+| **Agenda Ligada**       | Agenda de contatos em Lista Ligada                                            | Java/JFrame/Swing                                    |
+| **Analizador CSV**      | Programa de Análise Estatística para Planilhas                                | Java/JFrame/Swing                                    |
+| **Aprendendo Inglês**   | Game Web em Angular sobre traduções de frases de inglês para português        | Angular/Typescript/Bootstrap/Css/Html                |
+| **Cadastro de Ônibus**  | Crud completo de ônibus, linhas e motoristas                                  | Java/JavaScript/Html/CSS/Bootstrap/JQuery/PostgreSql |
+| **Calculadora IMC**     | Single Page Application de uma calculadora de IMC                             | Angular/Typescript/Bootstrap/Css/Html                |
+| **Calculadora**         | Calculadora Simples                                                           | Java/JFrame/Swing                                    |
+| **Calculadora**         | Calculadora Simples                                                           | JavaScript/Bootstrap                                 |
+| **Chat-in**             | Comunicador Criptografado com Envio e Recebimento de Arquivos                 | Java                                                 |
+| **Conversor Monetário** | Single Page Application que converte reais/dolares                            | Angular/Typescript/Bootstrap/Css/Html                |
+| **Geo Ip Lookup**       | Localizador geográfico por IP                                                 | Shell                                                |
+| **GitHub Pusher**       | Faz commits e pushes no Github com interface gráfica simples                  | Shell                                                |
+| **Hora Fácil**          | Single Page Application de Horas com cronômetro                               | Angular/Typescript/Bootstrap/Css/Html                |
+| **Pokemon**             | Jogo Temático                                                                 | Java                                                 |
+| **Restaurant Site**     | Página David Chu's China Bistro ministrado pela Universidade de John Hoppings | HTML/Bootstrap/JS                                    |
+| **StudLog**             | Programa de Coleta de dados de uma máquina para fins Estatísticos             | Shell                                                |
+| **Tela de Login**       | Aplicação Web de tela de Login Simples                                        | JavaScript/Html/CSS/Bootstrap                        |
+| **URL Shortner**        | Encurtador de URL com interface gráfica simples                               | Python                                               |
+| **Validador de CPF**    | Aplicação Web com Servlets para validação de Cpf                              | Java/Html                                            |
+
 
 #
 
 ### TO-DO
-
-
-
- - Módulo Web   <img src="https://github.com/M4NS0/Matriz.Curricular/blob/master/Tick.png" alt="test" width="30" height="30" style="vertical-align:bottom">
+ 
  - Módulo Cliente/Servidor
- - Módulo Mobile
  - Módulo Final/Projeto Integrador
 
 #
-
-[Versão bonita dessa mesma página](https://m4ns0.github.io/)  
-[Curriculum vitae](https://)  
-
-|     |     |
-| --- | --- |
-|![ECEC Logo](https://github.com/M4NS0/Matriz.Curricular/blob/master/puc.jpg )| ![PUC Logo](https://github.com/M4NS0/Matriz.Curricular/blob/master/Ecec.png) | 
-|||   
-
-![MC](https://github.com/M4NS0/Matriz.Curricular/blob/master/PUC%20ADS%20Matriz%20Curricular.png)
