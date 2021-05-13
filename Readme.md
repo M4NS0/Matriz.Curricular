@@ -63,6 +63,7 @@ _Projetos, em diversas linguagens, nos quais me envolvi_
 
 | Nome                    | Descrição                                                                     | Linguagem                                            |
 | ----------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------- |
+| **Projetos**            | Repositório de projetos pessoais                                              | https://github.com/M4NS0/Projetos                    |
 | **Agenda Ligada**       | Agenda de contatos em Lista Ligada                                            | Java/JFrame/Swing                                    |
 | **Analizador CSV**      | Programa de Análise Estatística para Planilhas                                | Java/JFrame/Swing                                    |
 | **Aprendendo Inglês**   | Game Web em Angular sobre traduções de frases de inglês para português        | Angular/Typescript/Bootstrap/Css/Html                |
@@ -76,7 +77,6 @@ _Projetos, em diversas linguagens, nos quais me envolvi_
 | **GitHub Pusher**       | Faz commits e pushes no Github com interface gráfica simples                  | Shell                                                |
 | **Hora Fácil**          | Single Page Application de Horas com cronômetro                               | Angular/Typescript/Bootstrap/Css/Html                |
 | **Pokemon**             | Jogo Temático                                                                 | Java                                                 |
-| **Projetos**            | Repositório de projetos pessoais                                              | https://github.com/M4NS0/Projetos                    |
 | **Restaurant Site**     | Página David Chu's China Bistro ministrado pela Universidade de John Hoppings | HTML/Bootstrap/JS                                    |
 | **StudLog**             | Programa de Coleta de dados de uma máquina para fins Estatísticos             | Shell                                                |
 | **Tela de Login**       | Aplicação Web de tela de Login Simples                                        | JavaScript/Html/CSS/Bootstrap                        |
